@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alim1202003/alim1202003/main/assets/Coding Work From Home GIF by Domme Space.gif" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/alim1202003/alim1202003/main/assets/download.gif" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">🚀 Alim HACİVERDİYEV — Coding | AI | Mobile | Rust | Slint</h1>
